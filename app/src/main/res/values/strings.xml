@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Baba pet</string>
+    <string name="activity_main_usuario">Usuário</string>
+    <string name="activity_main_login_usuario_email">Usuário ou Email</string>
+    <string name="activity_main_senha">Senha</string>
+    <string name="activity_main_passwprd">Senha</string>
+    <string name="activity_main_entrar">Entrar</string>
+    <string name="activity_main_esqueceu">Esqueceu a senha?</string>
+    <string name="activity_main_cadastrar">Criar uma nova conta</string>
+    <string name="activity_main_falha_autenticao">Usuário ou senha incorreta.</string>
+
+    <string name="activity_nome_usuario01">Fabiola Santos</string>
+    <string name="activity_nome_usuario01_descricao">Fabiola Santos é uma apaixonada por animais e uma babá de pet dedicada, com anos de experiência no cuidado e carinho com nossos amigos peludos. Nascida e criada em uma pequena cidade, ela sempre teve uma ligação especial com animais desde tenra idade.</string>
+
+    <string name="activity_nome_usuario02">Sabrina Carvalho</string>
+    <string name="activity_nome_usuario02_descricao">Sabrina Carvalho é uma apaixonada por animais e uma babá de pet dedicada, com anos de experiência no cuidado e carinho com nossos amigos peludos. Nascida e criada em uma pequena cidade, ela sempre teve uma ligação especial com animais desde tenra idade.</string>
+
+
+    <string name="activity_nome_contratar">contratar</string>
+    <string name="activity_main_solicitacao_enviada">Você acaba de enviar uma solicitação a babá.</string>
+
+
+    <string name="activity_main_cadastro_titulo">CADASTRO</string>
+
+    <string name="activity_main_nome_usuario">Usuário</string>
+    <string name="activity_main_senha_usuario">Senha</string>
+    <string name="activity_main_data_nascimento_usuario">Data de nascimento</string>
+
+    <string name="activity_main_nome_pet">Nome do Pet</string>
+    <string name="activity_main_porte_pet">Porte do Pet</string>
+    <string-array name="activity_main_porte_select">
+        <item>Pequeno</item>
+        <item>Médio</item>
+        <item>Grande</item>
+    </string-array>
+
+    <string name="activity_main_cadastrar_usuario">Cadastre-se</string>
+
+    <string name="activity_tela_cadastro_usuario_salvo">Cadastro efetuado com sucesso!</string>
+    <string name="activity_tela_cadastro_usuario_nao_salvo">Algo deu errado!</string>
+
+</resources>
